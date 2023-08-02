@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.App .container-fluid {
+  width: 70rem;
+}
+
+.App .container-body-page {
+  
+  margin: auto;
+}
+.App .container-jumbutron{
+  margin: auto;
+}
+.App .card{
+  margin: auto;
+  margin-top: 10px;
+}
+.App .card p{
+  text-align: start;
+}
+
+.App .container-fluid-jumbutron {
+  text-align: start;
+}
+.App .card-footer{
+  height: 50px;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
